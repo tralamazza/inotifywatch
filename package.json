@@ -1,0 +1,15 @@
+{
+  "name": "inotifywatch",
+  "version": "0.0.1",
+  "description": "inotify based file/folder watcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/tralamazza/inotifywatch.git",
+  "author": "Daniel Tralamazza <tralamazza@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inotify": "~1.2.0"
+  }
+}
